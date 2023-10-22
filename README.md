@@ -1,6 +1,4 @@
-# Desafio-Processamento-de-Dados-Simplificado-com-Power-BI
-
-Desafio Processamento de Dados Simplificado com Power BI
+# Desafio Processamento de Dados Simplificado com Power BI
 
 1. Criação de uma instância na Azure para MySQL
 2. Criar o Banco de dados com base disponível no github
